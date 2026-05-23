@@ -1,24 +1,17 @@
 * {
-  background-color: burlywood;
+  font-family: "Jetbrains mono";
 }
 
-h1 {
+header {
   text-align: center;
+  text-transform: uppercase;
+}
+
+footer {
+  text-align: center;
+}
+
+a:hover {
+  font-size: xx-large;
   color: red;
-  text-transform: uppercase;
-}
-
-h2 {
-  color: chartreuse;
-  text-transform: uppercase;
-}
-
-a {
-  color: blue;
-  font-size: 25px;
-}
-
-p {
-  background-color: white;
-  font-size: 20px;
 }
